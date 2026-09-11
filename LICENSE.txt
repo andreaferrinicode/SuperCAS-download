@@ -1,0 +1,61 @@
+SuperCAS - End User License Agreement
+Copyright (c) 2026 Andrea Ferrini. All rights reserved.
+
+SuperCAS is free of charge. It is not open source.
+
+
+WHAT YOU MAY DO
+
+  * Use SuperCAS for any purpose, private or commercial, on as many
+    computers as you like, for free.
+  * Copy it and give it to other people, as long as you pass it on
+    complete and unmodified, and free of charge.
+  * Use the tapes, files, images and labels SuperCAS produces however
+    you want. They are yours. This licence covers the program, never
+    what you make with it.
+
+
+WHAT YOU MAY NOT DO
+
+  * Modify, adapt or translate the program, or build another program
+    out of it.
+  * Reverse engineer, decompile or disassemble it, except where the law
+    of your country says you may do so anyway - in the European Union,
+    for instance, article 6 of Directive 2009/24/EC allows it for
+    interoperability, and nothing here takes that right away from you.
+  * Sell it, rent it, or include it in anything sold, without written
+    permission.
+  * Remove or alter the author's name, this licence, or the version
+    shown inside the program.
+
+
+NO WARRANTY
+
+SuperCAS is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability
+and fitness for a particular purpose. The author is not liable for any
+claim, damage or other liability arising from the use of the program.
+
+This matters more than usual here, so it is worth saying plainly rather
+than only in legal language: SuperCAS talks to real hardware and to
+tapes that in many cases cannot be replaced. Always keep the original
+cassette. Check what you capture before you trust it - the program
+tells you when a file does not look complete, and that warning is there
+to be read.
+
+
+THE MSX NAME
+
+MSX is a registered trademark of MSX Licensing Corporation. SuperCAS is
+not affiliated with, endorsed by, or sponsored by them, or by Philips,
+or by any other manufacturer mentioned in the program or its
+documentation. Those names appear only to describe what the program
+works with.
+
+
+CONTACT
+
+Andrea Ferrini - andrea.ferrini.1985@gmail.com
+
+If you want to do something this licence does not allow, ask. The
+answer is often yes.
