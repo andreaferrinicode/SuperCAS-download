@@ -22,7 +22,7 @@ from both builds, macOS and Windows.
 
 | File | For | Size |
 |---|---|---|
-| [`SuperCAS-1.0.dmg`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0.dmg) | macOS — open the disk, drag SuperCAS to Applications | 51.5 MB (51,518,714 bytes) |
+| [`SuperCAS-1.0.dmg`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0.dmg) | macOS — open the disk, drag SuperCAS to Applications | 51.5 MB (51,524,580 bytes) |
 | [`SuperCAS-1.0-Setup.exe`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0-Setup.exe) | Windows — installer, one file, no admin rights needed | 18.3 MB (18,292,736 bytes) |
 | [`SuperCAS-1.0-Windows.zip`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0-Windows.zip) | Windows — portable: extract and double-click `SuperCAS.exe` | 21.3 MB (21,292,947 bytes) |
 
@@ -44,7 +44,7 @@ access: that is the cassette input.
 ### SHA-256
 
 ```
-f0a92eb2c648183bea92f8149244b10aa14a2883be872334682b6bca1681ad71  SuperCAS-1.0.dmg
+9b1a060629b782fbb484df1fecc66d59714ec19c5ebb71b0c75ff56d9bd99703  SuperCAS-1.0.dmg
 df18fa5d17c66b467dbebc8e0032191bd8ce188a963ac6f4c0eb2f5820cc541d  SuperCAS-1.0-Setup.exe
 1f40d91616c963ec9f4f013c730e16d2df42cb48628d5283941e77039e499a95  SuperCAS-1.0-Windows.zip
 53cf26b371a1c15ec0a2b7e32c9d7c696925fbf479db4548ea75996d0529c37f  SuperCAS-1.0-Manual-EN.pdf
@@ -107,7 +107,7 @@ Windows.
 
 | File | Per | Dimensione |
 |---|---|---|
-| [`SuperCAS-1.0.dmg`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0.dmg) | macOS — apri il disco e trascina SuperCAS in Applicazioni | 51,5 MB (51.518.714 byte) |
+| [`SuperCAS-1.0.dmg`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0.dmg) | macOS — apri il disco e trascina SuperCAS in Applicazioni | 51,5 MB (51.524.580 byte) |
 | [`SuperCAS-1.0-Setup.exe`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0-Setup.exe) | Windows — installer, un file solo, niente permessi da amministratore | 18,3 MB (18.292.736 byte) |
 | [`SuperCAS-1.0-Windows.zip`](https://github.com/andreaferrinicode/SuperCAS-download/releases/download/v1.0/SuperCAS-1.0-Windows.zip) | Windows — portatile: estrai e doppio clic su `SuperCAS.exe` | 21,3 MB (21.292.947 byte) |
 
@@ -129,7 +129,7 @@ cassetta.
 ### Impronte SHA-256
 
 ```
-f0a92eb2c648183bea92f8149244b10aa14a2883be872334682b6bca1681ad71  SuperCAS-1.0.dmg
+9b1a060629b782fbb484df1fecc66d59714ec19c5ebb71b0c75ff56d9bd99703  SuperCAS-1.0.dmg
 df18fa5d17c66b467dbebc8e0032191bd8ce188a963ac6f4c0eb2f5820cc541d  SuperCAS-1.0-Setup.exe
 1f40d91616c963ec9f4f013c730e16d2df42cb48628d5283941e77039e499a95  SuperCAS-1.0-Windows.zip
 53cf26b371a1c15ec0a2b7e32c9d7c696925fbf479db4548ea75996d0529c37f  SuperCAS-1.0-Manual-EN.pdf
