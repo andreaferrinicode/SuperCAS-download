@@ -2,6 +2,8 @@
 
 *play & capture real MSX tapes* · [English](#english) · [Italiano](#italiano)
 
+![SuperCAS](img/tapeloadqueue.png)
+
 <a id="english"></a>
 ## English
 
